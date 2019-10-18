@@ -1,0 +1,10 @@
+Package: forecast
+Version: 8.9
+Depends: R (>= 3.0.2),
+Imports: colorspace, fracdiff, ggplot2 (>= 2.2.1), graphics, lmtest, magrittr, nnet, parallel, Rcpp (>=
+           0.11.0), stats, timeDate, tseries, urca, zoo
+LinkingTo: Rcpp (>= 0.11.0), RcppArmadillo (>= 0.2.35)
+Suggests: uroot, knitr, rmarkdown, rticles, testthat, methods
+License: GPL-3
+MD5sum: 204b744dcee466fa82f502d3cfd3370c
+NeedsCompilation: yes
